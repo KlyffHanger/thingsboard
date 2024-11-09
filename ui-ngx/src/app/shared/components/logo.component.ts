@@ -23,10 +23,10 @@ import { Component } from '@angular/core';
 })
 export class LogoComponent {
 
-  logo = 'assets/logo_title_white.svg';
+  logo = 'assets/klyff_final_logo.png';
 
   gotoThingsboard(): void {
-    window.open('https://thingsboard.io', '_blank');
+    window.open('https://klyff.com', '_blank');
   }
 
 }
